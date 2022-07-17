@@ -5,10 +5,16 @@ module.exports = {
         nav: [
             { text: "回到主站", link: "https://www.bc413.com/" },
             { text: "Mod下载", link: "/download/" },
-            { text: "Mod更新日志", link: "//" },
-            { text: "Github", link: "https://github.com/BC413/mtr" },
+            { text: "Mod更新日志", link: "/" },
         ],
+        repo: 'BC413/mtr',
+        repoLabel: 'Github',
+        docsDir: 'docs',
+        docsBranch: 'root',
+        editLinks: true,
+        editLinkText: '帮助我们改善此页面！',
         displayAllHeaders: true,
+        smoothScroll: true,
         sidebar: {
             '/foo/': [
                   '',
@@ -25,7 +31,7 @@ module.exports = {
                 'contact',
                 'about'
             ]
-        }
+        },
     },
     plugins: [
     '@vuepress/back-to-top',
