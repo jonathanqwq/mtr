@@ -28,15 +28,6 @@ module.exports = {
             { text: '捐赠', link: "https://www.yellowbud.net/docs/#/admin/help" },
             { text: "友链", link: "https://blog.niuboss123.com/links.html" },
         ],
-        sidebar: {
-            title: 'Group 1',   // 必要的
-            collapsable: false, // 可选的, 默认值是 true,
-            children: [
-                '/info/about',        /* / */
-                '/info/about', /* /contact.html */
-                '/info/about'    /* /about.html */
-            ],
-        },
         repo: 'BC413/mtr',
         repoLabel: 'Github',
         docsDir: 'docs',
