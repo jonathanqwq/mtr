@@ -10,5 +10,5 @@ features:
   details: 提供MTRmod高速下载节点，不再因网络苦苦等待。
 - title: 用爱发电
   details: 由BC413发起的完全免费的文档站及下载站，不含任何广告！
-footer: MIT Licensed | Copyright © 2013 - 2022 BC413
+footer: MIT Licensed | Copyright © 2013 - 2022 [BC413](https://www.bc413.com/) | 各mod版权归于原作者
 ---
