@@ -1446,15 +1446,7 @@
     "@vuepress/types" "1.9.7"
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-nprogress@1.9.7":
-  version "1.9.7"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.9.7.tgz"
-  integrity sha512-sI148igbdRfLgyzB8PdhbF51hNyCDYXsBn8bBWiHdzcHBx974sVNFKtfwdIZcSFsNrEcg6zo8YIrQ+CO5vlUhQ==
-  dependencies:
-    "@vuepress/types" "1.9.7"
-    nprogress "^0.2.0"
-
-"@vuepress/plugin-nprogress@^1.9.7":
+"@vuepress/plugin-nprogress@1.9.7", "@vuepress/plugin-nprogress@^1.9.7":
   version "1.9.7"
   resolved "https://registry.npmmirror.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.9.7.tgz#76d8368fa26c190ee23c399401a71ec78ffb9744"
   integrity sha512-sI148igbdRfLgyzB8PdhbF51hNyCDYXsBn8bBWiHdzcHBx974sVNFKtfwdIZcSFsNrEcg6zo8YIrQ+CO5vlUhQ==
@@ -8348,7 +8340,7 @@ vuepress-plugin-smooth-scroll@^0.0.3:
 
 vuepress@^1.9.7:
   version "1.9.7"
-  resolved "https://registry.npmmirror.com/vuepress/-/vuepress-1.9.7.tgz"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.9.7.tgz#2cd6709a2228f5cef588115aaeabf820ab9ed7cc"
   integrity sha512-aSXpoJBGhgjaWUsT1Zs/ZO8JdDWWsxZRlVme/E7QYpn+ZB9iunSgPMozJQNFaHzcRq4kPx5A4k9UhzLRcvtdMg==
   dependencies:
     "@vuepress/core" "1.9.7"
